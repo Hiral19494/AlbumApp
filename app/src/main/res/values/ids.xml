@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="textViewName" />
+    <item type="id" name="textViewEmail" />
+    <item type="id" name="recycler_view" />
+    <item type = "id" name ="textViewDes"/>
+    <item type ="id" name="imagview"/>
+    <item type="id" name="EdittextViewName" />
+    <item type="id" name="EdittextViewDes" />
+    <item type="id" name="editimage" />
+    <item type="id" name="dob" />
+    <item type = "id" name ="movie"/>
+    <item type = "id" name ="summary"/>
+    <item type = "id" name ="activity_main1"/>
+    <item type = "id" name ="activity_main"/>
+    <item type = "id" name ="movies_layout"/>
+    <item name="movielist_main" type="id" />
+
+
+</resources>
